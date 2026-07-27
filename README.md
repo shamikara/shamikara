@@ -75,6 +75,14 @@ Spandha Labs is a future product company: a place to turn real operational probl
 
 <p align="center">
   <strong>AI-assisted development</strong><br><br>
+  <img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Perplexity-111111?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" />
+  <br><br>
   Adaptable across Cursor, Codex, Gemini, ChatGPT, Claude, Kimi, Ollama, SWE agents, Nano Banana, Veo, and Perplexity—using the right model or tool for research, prototyping, implementation, debugging, and product exploration.
 </p>
 
