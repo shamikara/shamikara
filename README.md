@@ -43,22 +43,22 @@ Spandha Labs is a future product company: a place to turn real operational probl
 
 ## Technology
 
-**Core stack**  
+**Core stack**<br>
 Next.js · React · TypeScript · Laravel · PHP · PostgreSQL · MySQL · Prisma · Supabase · Docker
 
-**Cloud & DevOps**  
+**Cloud & DevOps**<br>
 AWS · Vercel · Docker · GitHub Actions · Linux
 
-**CMS & E-commerce**  
+**CMS & E-commerce**<br>
 WordPress · Shopify · Joomla
 
-**Backend**  
+**Backend**<br>
 Node.js · Python · Django
 
-**Frontend**  
+**Frontend**<br>
 JavaScript · HTML5 · CSS
 
-**Tools**  
+**Tools**<br>
 Git · GitHub · Postman
 
 ---
