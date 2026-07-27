@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for github.com/shamikara -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:172554,100:2563EB&height=220&section=header&text=Hasaru%20Shamikara&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Product%20Builder%20%C2%B7%20Spandha%20Labs&descAlignY=61&descSize=15&fontColor=F8FAFC&animation=fadeIn" alt="Hasaru Shamikara" width="100%" />
+  <img src="./assets/matrix-banner.svg" alt="Hasaru Shamikara — Spandha Labs" width="100%" />
 </p>
 
 <p align="center">
@@ -93,8 +93,4 @@ If you are building something ambitious, practical, and worth keeping, I would l
   <a href="https://github.com/shamikara">GitHub</a>
   &nbsp;·&nbsp;
   <a href="https://shamikara.github.io">Portfolio</a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,45:172554,100:0D1117&height=100&section=footer" alt="" width="100%" />
 </p>
