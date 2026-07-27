@@ -55,7 +55,9 @@ Spandha Labs is a future product company: a place to turn real operational probl
 
 <p align="center">
   <strong>CMS &amp; E-commerce</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=wordpress,shopify,joomla&theme=dark" alt="WordPress, Shopify, and Joomla" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" alt="Joomla" />
 </p>
 
 <p align="center">
