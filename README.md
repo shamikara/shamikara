@@ -43,30 +43,40 @@ Spandha Labs is a future product company: a place to turn real operational probl
 
 ## Technology
 
-**Core stack**<br>
-Next.js · React · TypeScript · Laravel · PHP · PostgreSQL · MySQL · Prisma · Supabase · Docker
-
-<p>
+<p align="center">
+  <strong>Core Stack</strong><br><br>
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,laravel,php,postgres,mysql,prisma,supabase,docker&theme=dark" alt="Next.js, React, TypeScript, Laravel, PHP, PostgreSQL, MySQL, Prisma, Supabase, and Docker" />
 </p>
 
-**Cloud & DevOps**<br>
-AWS · Vercel · Docker · GitHub Actions · Linux
+<p align="center">
+  <strong>Cloud &amp; DevOps</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,docker,githubactions,linux&theme=dark" alt="AWS, Vercel, Docker, GitHub Actions, and Linux" />
+</p>
 
-**CMS & E-commerce**<br>
-WordPress · Shopify · Joomla
+<p align="center">
+  <strong>CMS &amp; E-commerce</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=wordpress,shopify,joomla&theme=dark" alt="WordPress, Shopify, and Joomla" />
+</p>
 
-**Backend**<br>
-Node.js · Python · Django
+<p align="center">
+  <strong>Backend</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,django&theme=dark" alt="Node.js, Python, and Django" />
+</p>
 
-**Frontend**<br>
-JavaScript · HTML5 · CSS
+<p align="center">
+  <strong>Frontend</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=javascript,html,css&theme=dark" alt="JavaScript, HTML5, and CSS" />
+</p>
 
-**Tools**<br>
-Git · GitHub · Postman
+<p align="center">
+  <strong>Tools</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="Git, GitHub, and Postman" />
+</p>
 
-**AI-assisted development**<br>
-Adaptable across Cursor, Codex, Gemini, ChatGPT, Claude, Kimi, Ollama, SWE agents, Nano Banana, Veo, and Perplexity—using the right model or tool for research, prototyping, implementation, debugging, and product exploration.
+<p align="center">
+  <strong>AI-assisted development</strong><br><br>
+  Adaptable across Cursor, Codex, Gemini, ChatGPT, Claude, Kimi, Ollama, SWE agents, Nano Banana, Veo, and Perplexity—using the right model or tool for research, prototyping, implementation, debugging, and product exploration.
+</p>
 
 ---
 
