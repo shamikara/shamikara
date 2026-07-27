@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for github.com/shamikara -->
 
 <p align="center">
-  <img src="./assets/matrix-banner.svg" alt="Hasaru Shamikara — Spandha Labs" width="100%" />
+  <img src="https://raw.githubusercontent.com/shamikara/shamikara/main/assets/matrix-banner.gif" alt="Hasaru Shamikara — Spandha Labs" width="100%" />
 </p>
 
 <p align="center">
