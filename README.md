@@ -62,7 +62,7 @@ JavaScript · HTML5 · CSS
 Git · GitHub · Postman
 
 **AI-assisted development**<br>
-Adaptable across Gemini, ChatGPT, Claude, Kimi, Ollama, SWE agents, Nano Banana, Veo, and Perplexity—using the right model or tool for research, prototyping, implementation, debugging, and product exploration.
+Adaptable across Cursor, Codex, Gemini, ChatGPT, Claude, Kimi, Ollama, SWE agents, Nano Banana, Veo, and Perplexity—using the right model or tool for research, prototyping, implementation, debugging, and product exploration.
 
 ---
 
