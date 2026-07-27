@@ -1,71 +1,100 @@
-# Hasaru Shamikara
+<!-- GitHub Profile README for github.com/shamikara -->
 
-### Building products that become businesses.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:172554,100:2563EB&height=220&section=header&text=Hasaru%20Shamikara&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Product%20Builder%20%C2%B7%20Spandha%20Labs&descAlignY=61&descSize=15&fontColor=F8FAFC&animation=fadeIn" alt="Hasaru Shamikara" width="100%" />
+</p>
 
-Software engineer and product builder from Sri Lanka. I combine full-stack engineering with an eye for product design to create software that is useful, durable, and ready to grow.
+<p align="center">
+  <a href="https://shamikara.github.io"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/HasaruShamikara"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shamikara@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-Currently building under **Spandha Labs**.
+<p align="center">
+  <strong>I build products that become businesses.</strong>
+</p>
 
-[Portfolio](https://shamikara.github.io) · [LinkedIn](https://www.linkedin.com/in/HasaruShamikara) · [Email](mailto:shamikara@gmail.com)
+<p align="center">
+  Full-stack engineer and product builder from Sri Lanka, developing thoughtful, production-grade software under <strong>Spandha Labs</strong>.
+</p>
 
-<br />
+---
 
-## Spandha Labs
+## Building at Spandha Labs
 
-A future product company focused on turning real operational problems into focused, scalable software.
-
-> Thoughtful software. Strong foundations. Products with a reason to exist.
-
-<br />
-
-## Products in progress
+Spandha Labs is a future product company: a place to turn real operational problems into focused, scalable software. The work combines product thinking, intentional systems design, and a high bar for the experience people use every day.
 
 | Product | Purpose |
 | --- | --- |
-| **Spandha** | An AI-powered matrimony platform designed for more meaningful compatibility. |
-| **Platform OS** | The shared product, design, and infrastructure foundation for future SaaS ventures. |
+| **Spandha** | An AI-powered matrimony platform for more meaningful compatibility. |
+| **Platform OS** | Shared product, design, and infrastructure foundations for future SaaS products. |
 | **Hotel Management System** | Software for clearer, more efficient hospitality operations. |
-| **Portfolio** | A living record of my work, experiments, and approach to building. |
+| **Personal Portfolio** | A living record of work, experiments, and product thinking. |
 
-<br />
-
-## Engineering philosophy
-
-I believe the best software makes difficult work feel straightforward.
-
-That means designing from real user workflows, choosing technology with intention, and treating polish, reliability, and maintainability as product features—not afterthoughts.
-
-- Build the smallest complete solution first.
-- Create interfaces that clarify, rather than decorate.
-- Prefer systems that can evolve over systems that merely demo well.
-- Keep the distance between an idea and a useful product short.
-
-<br />
+---
 
 ## Current focus
 
-Developing the foundations of **Spandha Labs**: AI-assisted product experiences, reusable SaaS infrastructure, and software that can progress from a useful tool into a sustainable business.
+- Building AI-assisted experiences that feel useful, not ornamental.
+- Creating reusable SaaS infrastructure with Next.js, Laravel, PostgreSQL, and Supabase.
+- Turning well-defined workflows into calm, reliable products.
 
-<br />
+---
 
 ## Technology
 
-`Next.js` · `React` · `TypeScript` · `Python` · `Laravel` · `PHP`  
-`Prisma` · `PostgreSQL` · `Supabase` · `Docker` · `Tailwind CSS`
-
-<br />
-
-## GitHub
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shamikara&show_icons=true&hide_border=true&hide_title=true&title_color=111827&text_color=4b5563&icon_color=2563eb&bg_color=ffffff" alt="GitHub statistics" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamikara&layout=compact&hide_border=true&title_color=111827&text_color=4b5563&bg_color=ffffff" alt="Top languages" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,python,laravel,php,prisma,postgres,supabase,docker,tailwind&theme=dark" alt="Next.js, React, TypeScript, Python, Laravel, PHP, Prisma, PostgreSQL, Supabase, Docker, and Tailwind CSS" />
 </p>
 
-<br />
+<p align="center">
+  <sub>Next.js &nbsp;·&nbsp; React &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; Laravel &nbsp;·&nbsp; PHP &nbsp;·&nbsp; Prisma &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Supabase &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Tailwind CSS</sub>
+</p>
+
+---
+
+## Engineering philosophy
+
+> The best software makes difficult work feel straightforward.
+
+I design from real user workflows, choose technology with intention, and treat polish, reliability, and maintainability as product features.
+
+- Build the smallest complete solution first.
+- Create interfaces that clarify rather than decorate.
+- Prefer systems that can evolve over systems that merely demo well.
+- Keep the distance between an idea and a useful product short.
+
+---
+
+## GitHub activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shamikara&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA&ring_color=2563EB" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamikara&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shamikara&hide_border=true&background=0D1117&ring=2563EB&fire=60A5FA&currStreakLabel=CBD5E1&sideLabels=CBD5E1&dates=64748B&stroke=1E293B" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamikara&bg_color=0D1117&color=CBD5E1&line=2563EB&point=60A5FA&area=true&area_color=172554&hide_border=true" alt="GitHub contribution graph" width="100%" />
+</p>
+
+---
 
 ## Connect
 
 If you are building something ambitious, practical, and worth keeping, I would like to hear about it.
 
-[shamikara@gmail.com](mailto:shamikara@gmail.com) · [github.com/shamikara](https://github.com/shamikara)
+<p align="center">
+  <a href="mailto:shamikara@gmail.com">shamikara@gmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/shamikara">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://shamikara.github.io">Portfolio</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,45:172554,100:0D1117&height=100&section=footer" alt="" width="100%" />
+</p>
