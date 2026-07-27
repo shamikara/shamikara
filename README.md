@@ -46,6 +46,10 @@ Spandha Labs is a future product company: a place to turn real operational probl
 **Core stack**<br>
 Next.js · React · TypeScript · Laravel · PHP · PostgreSQL · MySQL · Prisma · Supabase · Docker
 
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,laravel,php,postgres,mysql,prisma,supabase,docker&theme=dark" alt="Next.js, React, TypeScript, Laravel, PHP, PostgreSQL, MySQL, Prisma, Supabase, and Docker" />
+</p>
+
 **Cloud & DevOps**<br>
 AWS · Vercel · Docker · GitHub Actions · Linux
 
