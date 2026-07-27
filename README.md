@@ -61,6 +61,9 @@ JavaScript · HTML5 · CSS
 **Tools**<br>
 Git · GitHub · Postman
 
+**AI-assisted development**<br>
+Adaptable across Gemini, ChatGPT, Claude, Kimi, Ollama, SWE agents, Nano Banana, Veo, and Perplexity—using the right model or tool for research, prototyping, implementation, debugging, and product exploration.
+
 ---
 
 ## Engineering philosophy
